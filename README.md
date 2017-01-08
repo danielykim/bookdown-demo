@@ -1,3 +1,3 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
+R markdown과 **bookdown** (https://github.com/rstudio/bookdown)으로 만든 단순한 예제 책입니다. 이 예제를 컴파일하는 방법은 https://bookdown.org/ 여기의 "Get Started" 페이지에서 살펴보시길 바랍니다. 
 
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/
+여기(https://bookdown.org/yihui/bookdown-demo/)에서 이 예제의 미리보기를 살펴볼 수 있습니다.
